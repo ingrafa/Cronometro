@@ -1,3 +1,2 @@
-# Cronometro
-# Cronometro
-# Cronometro
+# Cronometro hecho en python
+
