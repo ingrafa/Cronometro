@@ -1,2 +1,2 @@
-# Cronometro hecho en python
+Practicas TIME
 
